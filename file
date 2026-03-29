@@ -20,6 +20,7 @@
     <p class="subtitle">Sedona, Arizona · Busca la bebida energética de la juventud eterna</p>
     <canvas id="game" width="1000" height="560"></canvas>
     <div id="hint">Controles: ← → moverse · ↑/Barra saltar · R reiniciar</div>
+    <p style="margin:10px 0 0;font-size:13px;color:#555">¿Quieres descansar? Juega al <a href="cachito.html" style="color:#1976d2;font-weight:600">&#127922; Cachito</a></p>
   </div>
   <script>
     const cvs = document.getElementById('game'); const ctx = cvs.getContext('2d');
